@@ -40,8 +40,13 @@ Entretenimento:
 ![Captura de tela 2025-03-29 130211](https://github.com/user-attachments/assets/d21fe19a-7c3d-4c62-978b-0bd07568cbaa)
 
 
-### Exemplo 2 (Verificando identidades e se são a mesma pessoa pelo rosto):
+## Exemplo 2 (Verificando identidades e se são a mesma pessoa pelo rosto):
 ![Captura de tela 2025-03-29 130936](https://github.com/user-attachments/assets/22a0ff50-d0f1-4e62-b692-74d0aea04fcd)
+
+
+## Exemplo 3 (Identificando famosos):
+![image](https://github.com/user-attachments/assets/c305a513-4abe-4de4-bb8d-7cd14c3711b6)
+
 
 
 
